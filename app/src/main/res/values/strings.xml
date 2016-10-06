@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicRideoSample</string>
+    <string name="redio"> Redio </string>
+    <string name="customizePlayList"> play list </string>
+    <string name="mood"> mood </string>
+    <string name="album"> album </string>
+</resources>
